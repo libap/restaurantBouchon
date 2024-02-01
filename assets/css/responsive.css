@@ -1,4 +1,8 @@
 @media (max-width: 560px) {
+    .menuTabs ul li a {
+        font-size: 3rem;
+    }
+
     header .menu p {
         display: none;
     }
@@ -36,7 +40,7 @@
 
     .safst.home .fstClass .icons {
         z-index: 999;
-        bottom: 30px;
+        bottom: -135px;
         left: 30%;
     }
 
@@ -194,6 +198,7 @@
 
     section .fstCol {
         height: 500px;
+        display: none;
     }
 
     section.form .secCol {

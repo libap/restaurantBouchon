@@ -1,0 +1,211 @@
+@media (max-width: 560px) {
+    header .menu p {
+        display: none;
+    }
+
+    header .top p {
+        display: none;
+    }
+
+    .menuTabs {
+        width: 100%;
+        overflow-y: scroll;
+        padding-left: 5rem;
+    }
+
+    .safst .fstClass {
+        padding: 15rem 1rem !important;
+        text-align: center;
+        padding-bottom: 0 !important;
+        margin-bottom: -25rem !important;
+    }
+
+    .safst.home .fstClass h2 {
+        font-size: 4rem;
+        text-align: center;
+        line-height: 1;
+    }
+
+    .safst.home {
+        height: 90vh;
+    }
+
+    .sideHeadTitle {
+        display: none;
+    }
+
+    .safst.home .fstClass .icons {
+        z-index: 999;
+        bottom: 30px;
+        left: 30%;
+    }
+
+    .safst.home .secClass .tagline {
+        display: none;
+    }
+
+    .justText h2 {
+        font-size: 3rem;
+    }
+
+    section {
+        margin-top: 5rem;
+        margin-bottom: 5rem;
+    }
+
+    section.ourStory .fstCol img {
+        width: 90%;
+        height: 90%;
+        left: 33px;
+        top: 13px;
+    }
+
+    section.ourStory .fstCol img.shape {
+        width: 20%;
+        height: 30%;
+        left: 0;
+    }
+
+    .secHead {
+        text-align: center;
+        font-size: 4rem;
+    }
+
+    .ourStory .secCol {
+        padding-right: 3rem;
+        padding-left: 3rem;
+        text-align: center;
+    }
+
+    .imgCarousel {
+        display: none;
+    }
+
+    .twoImg {
+        padding-top: 0;
+        padding-bottom: 5rem;
+    }
+
+    .twoImg .img {
+        height: 500px;
+    }
+
+    .twoImg .img2 {
+        top: 30px;
+    }
+
+    section.menu .fstCol {
+        height: 500px;
+    }
+
+    .ourPhilosophy .fstCol img {
+        display: none;
+    }
+
+    .ourPhilosophy .secCol {
+        padding: 4rem 3rem !important;
+    }
+
+    .ourPhilosophy .secHead {
+        font-size: 4rem;
+    }
+
+    .ourPhilosophy .secCol .d-flex {
+        display: block !important;
+    }
+
+    .ourPhilosophy .secCol .d-flex p {
+        margin-bottom: 2rem;
+        text-align: left;
+    }
+
+    .ourPhilosophy {
+        padding-bottom: 0;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    footer .fake img {
+        display: none;
+    }
+
+    footer .copiright {
+        margin-top: 5rem;
+    }
+
+    footer .copiright div:first-child {
+        display: block !important;
+        align-items: center;
+        text-align: center;
+    }
+
+    footer .copiright .icons {
+        text-align: center;
+    }
+
+    .safst .secClass {
+        order: -1;
+    }
+
+    .safst {
+        padding-top: 10rem;
+        margin-bottom: 0 !important;
+    }
+
+    .safst .fstClass {
+        padding: 3rem 1rem !important;
+        text-align: justify;
+    }
+
+    section .fstCol img {
+        display: none;
+    }
+
+    section.menu .secCol {
+        padding: 3rem 2rem;
+    }
+
+    .menu .secHead {
+        font-size: 5rem;
+        margin-bottom: 4rem;
+    }
+
+    .brunch {
+        margin-top: 0;
+    }
+
+    section.menu.brunch .fstCol {
+        padding: 0 2rem !important;
+    }
+
+    section.menu.brunch .secCol {
+        padding: 0 2rem !important;
+    }
+
+    .safst .fstClass h2 {
+        font-size: 4rem;
+    }
+
+    section.form {
+        margin-top: 0;
+    }
+
+    section .fstCol {
+        height: 500px;
+    }
+
+    section.form .secCol {
+        padding: 3rem 2rem;
+        text-align: left;
+    }
+
+    section.form .secHead {
+        text-align: left;
+    }
+
+    section.form p {
+        text-align: justify;
+    }
+}

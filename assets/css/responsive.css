@@ -6,6 +6,16 @@
         width: 100vw;
     }
 
+    .menu.shape-relative .shape {
+        position: absolute;
+        z-index: -111;
+        /* width: 30%; */
+        opacity: .7;
+        bottom: -300px !important;
+        right: 0;
+        display: none;
+    }
+
     .menuTabs ul li a {
         font-size: 3rem;
     }

@@ -1,4 +1,11 @@
 @media (max-width: 560px) {
+    .safst.home .secClass img {
+        bottom: auto;
+        top: 100px;
+        display: none;
+        width: 100vw;
+    }
+
     .menuTabs ul li a {
         font-size: 3rem;
     }
